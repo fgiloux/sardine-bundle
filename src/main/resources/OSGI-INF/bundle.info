@@ -1,0 +1,14 @@
+\u001B[1mSYNOPSIS\u001B[0m
+    ${project.description}
+
+    Original Maven URL:
+        \u001B[33mmvn:http://mvnrepository.com/artifact/${pkgGroupId}/${pkgArtifactId}/${pkgVersion}\u001B[0m
+
+\u001B[1mDESCRIPTION\u001B[0m
+    Sardine is a next generation WebDAV client for Java.
+    It is intended to be simple to use and does not implement the full WebDAV client specification (although a good amount is covered).
+    Instead, the goal is to provide methods for most use case scenarios when working with a webdav server. 
+
+    
+\u001B[1mSEE ALSO\u001B[0m
+    \u001B[36mhttps://github.com/lookfirst/sardine/wiki/UsageGuide\u001B[0m
