@@ -1,8 +1,9 @@
 ## OSGi wrapper for Sardine 5.7
 
 Sardine is a next generation WebDAV client for Java. It is intended to be simple to use and does not implement the full WebDAV client specification (although a good amount is covered). Instead, the goal is to provide methods for most use case scenarios when working with a webdav server. 
+This project only provides a wrapper for Sardine so that it can get installed in an OSGi container.
 
-For more information see:
+For more information on Sardine see:
 
 https://github.com/lookfirst/sardine/wiki/UsageGuide
 
