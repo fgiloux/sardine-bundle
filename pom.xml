@@ -19,8 +19,8 @@
     
     <scm>
         <connection>scm:git:https://github.com/fgiloux/sardine-bundle.git</connection>
-        <developerConnection>scm:git://https://github.com/fgiloux/sardine-bundle.git</developerConnection>
-        <url>scm:git://https://github.com/fgiloux/sardine-bundle.git</url>
+        <developerConnection>scm:git:https://github.com/fgiloux/sardine-bundle.git</developerConnection>
+        <url>scm:git:https://github.com/fgiloux/sardine-bundle.git</url>
       <tag>HEAD</tag>
    </scm>
 
